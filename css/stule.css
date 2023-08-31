@@ -50,7 +50,7 @@
     background-color: #2e2f42;
 
 }
-.h1-one{
+.h-one{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -74,7 +74,7 @@
 .button:focus{
     background-color: #404BBF; 
 }  
-.h3-one{
+.h-tre-one{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -90,7 +90,7 @@
 .section-tre{
     background-color: #F4F4FD;
 }
-.h2-one{
+.h-tu-one{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
