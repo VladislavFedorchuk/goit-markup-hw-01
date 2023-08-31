@@ -16,7 +16,7 @@
 .logo-studio{
     color: #2e2f42 ;
 }
-.link-studio{
+.link-nav{
     color: #2e2f42 ;
     font-weight: 500;
     font-size: 16px;
@@ -24,38 +24,13 @@
     letter-spacing: 0.02em;
     
 }
-.link-studio:hover{
+.link-nav:hover{
  color: #404bbf;
 }
-.link-studio:focus{
+.link-nav:focus{
     color: #404bbf;
 }
-.link-portfolio{
-    color: #2e2f42 ;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.link-portfolio:hover{
- color: #404bbf;
-}
-.link-portfolio:focus{
-    color: #404bbf;
-}
-.link-contacts{
-    color: #2e2f42 ;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.link-contacts:hover{
- color: #404bbf;
-}
-.link-contacts:focus{
-    color: #404bbf;
-}
+
 .adres{
     font-style: normal
 }
@@ -71,23 +46,11 @@
 .email-adres:focus{
     color: #404bbf;
 }
-.telefon-adres{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.telefon-adres:hover{
-    color: #404bbf;
-}
-.telefon-adres:focus{
-    color: #404bbf;
-}
-.section1{
+.section-one{
     background-color: #2e2f42;
 
 }
-.h1{
+.h1-one{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -111,23 +74,23 @@
 .button:focus{
     background-color: #404BBF; 
 }  
-.h3-1{
+.h3-one{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p-1{
+.p-one{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;    
 }
-.section3{
+.section-tre{
     background-color: #F4F4FD;
 }
-.h2-1{
+.h2-one{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -135,14 +98,25 @@
     text-transform: capitalize;
     color: #2e2f42;
 }
+.human-li{
+    background-color: #ffffff;
+}
 .footer{
     background-color: #2e2f42;
 }
-.p-2{
+.p-tu{
     line-height: 1.5;
     letter-spacing: 0.02px;
     color: #F4F4FD;
 }
-.logo-studio-2{
+.logo-studio-tu{
     color: #f4f4fd;
+}
+.logo-tu{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
