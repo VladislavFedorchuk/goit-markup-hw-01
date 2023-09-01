@@ -111,6 +111,7 @@
 }
 .studios{
     color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
 .logotipe{
     font-size: 18px;
@@ -119,4 +120,5 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-family: 'Raleway', sans-serif;
 }
